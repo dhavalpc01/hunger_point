@@ -18,7 +18,7 @@ const Header = () => {
     <>
       <HeaderHead />
       <header>
-        <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800 bg-gradient-to-r from-[#252525] to-[#380000] w-full min-w-fit">
+        <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800 bg-gradient-to-r from-[#252525] to-[#380000] w-full min-w-fit mb-2">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
             <img
               className="mr-3 h-20 w-20"
@@ -82,7 +82,7 @@ const Header = () => {
             </div>
             <div
               className={`${
-                isVisible ? "hidden" : ""
+                isVisible ? "" : "hidden"
               } "justify-between items-center w-full lg:flex lg:w-auto lg:order-1"`}
               id="mobile-menu-2"
             >
