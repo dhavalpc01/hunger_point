@@ -10,6 +10,7 @@ import AddressDetails from "./pages/myAddresses/addressDetails";
 import Profile from "./pages/profile";
 import Home from "./pages/home";
 import ProductPage from "./pages/product";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="/MyAddresses" element={<MyAddresses />} />
         <Route path="/AddressDetails" element={<AddressDetails />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

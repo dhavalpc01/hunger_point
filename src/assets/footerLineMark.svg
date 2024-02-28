@@ -1,0 +1,10 @@
+<svg width="1439" height="48" viewBox="0 0 1439 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<path d="M-230 36L1439 36" stroke="#737373" stroke-dasharray="13 13"/>
+<path d="M-230 12L1439 12" stroke="#737373" stroke-dasharray="13 13"/>
+<circle cx="1290" cy="36" r="12" transform="rotate(-90 1290 36)" fill="#7E5B00"/>
+<circle cx="1290" cy="36" r="8" transform="rotate(-90 1290 36)" fill="#E5B638"/>
+<circle cx="1333" cy="12" r="12" transform="rotate(-90 1333 12)" fill="#7E5B00"/>
+<circle cx="1333" cy="12" r="8" transform="rotate(-90 1333 12)" fill="#E5B638"/>
+</g>
+</svg>

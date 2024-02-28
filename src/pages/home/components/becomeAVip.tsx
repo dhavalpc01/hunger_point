@@ -3,7 +3,7 @@ import Button from "../../../common/button";
 
 const BecomeAVip = () => {
   return (
-    <div className="w-[70%] mt-40">
+    <div className="w-[70%] my-40">
       <div className=" flex flex-col sm:flex-col md:flex-row lg:flex-row xl:flex-row gap-10  justify-between items-center w-full">
         <div className="font-poppins font-bold text-4xl leading-[57px] text-[#E5B638] flex flex-col w-[50%]">
           BECOME A VIP
@@ -12,7 +12,7 @@ const BecomeAVip = () => {
             !
           </span>
         </div>
-        <div className="w-[50%]">
+        <div className="w-[50%] flex justify-end">
           <Button
             name={"Order Online Now!"}
             className={
